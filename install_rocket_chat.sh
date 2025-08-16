@@ -15,7 +15,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Variables
-DOMAIN="mars.yourdomain.com"
+DOMAIN="trial.yourdomain.com"
 EMAIL="hostmaster@yourdomain.com"
 PASSWORD="BABpbdVerOD7v5"
 ROCKETCHAT_VERSION="7.9.3"
