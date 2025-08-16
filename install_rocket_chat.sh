@@ -3,8 +3,8 @@
 # Rocket.Chat Auto Install Script
 # For Ubuntu 20.04/22.04 LTS
 # Using Node.js v22, MongoDB 7.0.23, Rocket.Chat 7.9.3
-# Domain: trial.your.com
-# Email: hostmaster@your.com
+# Domain: trial.yourdomain.com
+# Email: hostmaster@yourdomain.com
 # Password: BABpbdVerOD7v5
 
 # Colors
@@ -15,8 +15,8 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Variables
-DOMAIN="trial.your.com"
-EMAIL="hostmaster@your.com"
+DOMAIN="mars.yourdomain.com"
+EMAIL="hostmaster@yourdomain.com"
 PASSWORD="BABpbdVerOD7v5"
 ROCKETCHAT_VERSION="7.9.3"
 ROCKETCHAT_URL="https://releases.rocket.chat/${ROCKETCHAT_VERSION}/download"
