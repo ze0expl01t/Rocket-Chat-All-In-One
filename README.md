@@ -1,6 +1,5 @@
 # 🚀 Rocket.Chat One-Click Installer
 
-![Rocket.Chat Logo](https://rocket.chat/images/logo/logo-dark.svg)  
 **Automated deployment script for Rocket.Chat with production-ready configuration**
 
 ## ✨ Features
@@ -19,7 +18,6 @@
 ## 🚀 Quick Start
 ```bash
 # Download and execute (Ubuntu 20.04/22.04)
-wget -O rocket-install.sh https://bit.ly/rocket-auto-install && \
 chmod +x rocket-install.sh && \
 sudo ./rocket-install.sh
 
