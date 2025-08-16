@@ -24,8 +24,8 @@ MONGO_VERSION="7.0"
 MONGO_EXACT_VERSION="7.0.23"
 MONGOSH_VERSION="2.5.6"
 NODE_VERSION="22"
-MONGO_ADMIN_PWD="Mmaster@2025"
-MONGO_RC_PWD="Mmaster@2025"
+MONGO_ADMIN_PWD="BABpbdVerOD7v5"
+MONGO_RC_PWD="BABpbdVerOD7v5"
 
 # Check if running as root
 if [ "$(id -u)" -ne 0 ]; then
